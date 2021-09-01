@@ -1,0 +1,8 @@
+```{r}
+library(oro.dicom)
+slice =readDICOM("./Neurohacking_data-0.0/BRAINIX/DICOM/FLAIR/BRAINIX_DICOM_FLAIR_IM-0001-0011.dcm")
+class(slice)
+```
+```{r}
+
+```
